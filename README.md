@@ -27,7 +27,7 @@ Using the same list of borough, the foursquare api is then used to find the numb
 
 ## Conclusion 
 From the data generated, it is seen that little correlation exist between the number of McDonald's and homeless people. It is more clearly shown in the bar chart below.
-![alt text](https://github.com/chitxxx/chitxxx_IBM_Coursera/raw/master/report_5.JPG "impage")
+![alt text](https://raw.githubusercontent.com/chitxxx/chitxxx_IBM_Coursera/master/report%205.JPG "impage")
 
 ## Dissusion
 Although it is shown that limited correlation exist between number of McDonald's and homeless from the limited analysis conducted. There exist few major limitations of the study, firstly being that the foursquare api only give a rough estimation of the borough bondaries, with a ciruclar shape having 1500m radius. This lead to inaccuracy when counting number of McDonald's hence inaccuracy in the analysis. Above that, it is known that homeless people are rather mobile and frequently locate themselves away from where they are registered, combined with the inaccuracy in the government data because of difficulties to track homeless, the no. of homeless is also not entirely accurate. Nonetheless, it is interesting to further investigate in what is the main factors behind homeless' location. 
