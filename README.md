@@ -10,3 +10,6 @@ The two data that will be used in the project will be <br/>
 2. Foursquare API <br/>
 The government data of homeless statistics gives us the numebr of homeless people compare with the overall popullation across differnet borough in London. By that, we can calculate the ratio of homeless people in each of the borough and identify the level of homelessness in each borough. We can then convert the location of each borough into coordinates in order to prepare for the search on on the Foursquare API. By using the API, we can count the number of Venues, in this case McDonald's in within a set radius of the location to estimate the number of venues within the borough. From that we can analysis whether there is a relationship between homelessness and no. of McDonald's.
 
+![alt text](https://github.com/chitxxx/chitxxx_IBM_Coursera/raw/master/report_1.JPG "impage")
+![alt text](https://github.com/chitxxx/chitxxx_IBM_Coursera/raw/master/report_2.JPG "impage")
+![alt text](https://github.com/chitxxx/chitxxx_IBM_Coursera/raw/master/report_3.JPG "impage")
